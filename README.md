@@ -1,6 +1,4 @@
 # IPTV
-IPTV M3U
-
 
 #EXTM3U
 
